@@ -1,0 +1,7 @@
+C:\Users\AlexV\OneDrive\Documents\.NET Enterprise\WorkshopRSVPLab3\obj\Release\net8.0\PubTmp\Out\WorkshopRSVPLab3.exe
+C:\Users\AlexV\OneDrive\Documents\.NET Enterprise\WorkshopRSVPLab3\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\AlexV\OneDrive\Documents\.NET Enterprise\WorkshopRSVPLab3\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\AlexV\OneDrive\Documents\.NET Enterprise\WorkshopRSVPLab3\obj\Release\net8.0\PubTmp\Out\WorkshopRSVPLab3.dll
+C:\Users\AlexV\OneDrive\Documents\.NET Enterprise\WorkshopRSVPLab3\obj\Release\net8.0\PubTmp\Out\WorkshopRSVPLab3.deps.json
+C:\Users\AlexV\OneDrive\Documents\.NET Enterprise\WorkshopRSVPLab3\obj\Release\net8.0\PubTmp\Out\WorkshopRSVPLab3.runtimeconfig.json
+C:\Users\AlexV\OneDrive\Documents\.NET Enterprise\WorkshopRSVPLab3\obj\Release\net8.0\PubTmp\Out\WorkshopRSVPLab3.pdb

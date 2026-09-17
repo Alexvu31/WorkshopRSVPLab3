@@ -1,0 +1,25 @@
+﻿@page
+@model WorkshopRSVPLab3.Views.Workshops.IndexModel
+@{
+
+<h1>Workshops RSVP</h1>
+
+<p>Welcome to our workshop registration page.
+Use the links below to register for a workshop or view existing registrations.</p>
+
+<div> 
+<a 
+asp-controller="Workshops"
+asp-action="RsvpForm"
+class="btn btn-primary">
+RSVP for a Workshop
+</a>
+
+<a 
+asp-controller="Workshops"
+asp-action="Registrations"
+class="btn btn-secondary">
+View Registrations
+</a>
+</div>
+}
