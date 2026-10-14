@@ -1,3 +1,6 @@
+using WorkshopRSVPLab3.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace WorkshopRSVPLab3
 {
     public class Program
@@ -6,10 +9,21 @@ namespace WorkshopRSVPLab3
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+            options.UseSqlServer(
+            builder.Configuration.GetConnectionString("DefaultConnection")));
+
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
+
+            using (var scope = app.Services.CreateScope())
+            {
+                var context = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+
+                DbInitializer.Seed(context);
+            }
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
