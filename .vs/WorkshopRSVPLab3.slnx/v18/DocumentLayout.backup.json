@@ -1,73 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\",
+  "WorkspaceRootPath": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\users\\alexv\\onedrive\\documents\\.net enterprise\\workshoprsvplab3\\models\\rsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\onedrivebackup\\.net enterprise\\workshoprsvplab3\\models\\rsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:models\\rsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\users\\alexv\\onedrive\\documents\\.net enterprise\\workshoprsvplab3\\views\\workshops\\rsvpform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:views\\workshops\\rsvpform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\users\\alexv\\onedrive\\documents\\.net enterprise\\workshoprsvplab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\onedrivebackup\\.net enterprise\\workshoprsvplab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\users\\alexv\\onedrive\\documents\\.net enterprise\\workshoprsvplab3\\controllers\\workshopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:controllers\\workshopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\onedrivebackup\\.net enterprise\\workshoprsvplab3\\views\\workshops\\rsvpform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:views\\workshops\\rsvpform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\users\\alexv\\onedrive\\documents\\.net enterprise\\workshoprsvplab3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\users\\alexv\\onedrive\\documents\\.net enterprise\\workshoprsvplab3\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\onedrivebackup\\.net enterprise\\workshoprsvplab3\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\users\\alexv\\onedrive\\documents\\.net enterprise\\workshoprsvplab3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\onedrivebackup\\.net enterprise\\workshoprsvplab3\\controllers\\workshopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:controllers\\workshopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\users\\alexv\\onedrive\\documents\\.net enterprise\\workshoprsvplab3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\onedrivebackup\\.net enterprise\\workshoprsvplab3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\onedrivebackup\\.net enterprise\\workshoprsvplab3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\users\\alexv\\onedrive\\documents\\.net enterprise\\workshoprsvplab3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\onedrivebackup\\.net enterprise\\workshoprsvplab3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\users\\alexv\\onedrive\\documents\\.net enterprise\\workshoprsvplab3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\onedrivebackup\\.net enterprise\\workshoprsvplab3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\users\\alexv\\onedrive\\documents\\.net enterprise\\workshoprsvplab3\\views\\workshops\\registrations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\onedrivebackup\\.net enterprise\\workshoprsvplab3\\views\\workshops\\registrations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:views\\workshops\\registrations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\users\\alexv\\onedrive\\documents\\.net enterprise\\workshoprsvplab3\\views\\workshops\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\onedrivebackup\\.net enterprise\\workshoprsvplab3\\views\\workshops\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:views\\workshops\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\users\\alexv\\onedrive\\documents\\.net enterprise\\workshoprsvplab3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\onedrivebackup\\.net enterprise\\workshoprsvplab3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\users\\alexv\\onedrive\\documents\\.net enterprise\\workshoprsvplab3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\onedrivebackup\\.net enterprise\\workshoprsvplab3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\users\\alexv\\onedrive\\documents\\.net enterprise\\workshoprsvplab3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\onedrivebackup\\.net enterprise\\workshoprsvplab3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\users\\alexv\\onedrive\\documents\\.net enterprise\\workshoprsvplab3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\onedrivebackup\\.net enterprise\\workshoprsvplab3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\users\\alexv\\onedrive\\documents\\.net enterprise\\workshoprsvplab3\\views\\workshops\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|c:\\onedrivebackup\\.net enterprise\\workshoprsvplab3\\views\\workshops\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{241111FB-5CF3-400D-3F4E-62DB93BE5DC8}|WorkshopRSVPLab3.csproj|solutionrelative:views\\workshops\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -78,132 +74,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Data\\DbInitializer.cs",
+              "DocumentMoniker": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Data\\DbInitializer.cs",
               "RelativeToolTip": "Data\\DbInitializer.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T17:19:04.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-04T17:15:25.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RsvpForm.cshtml",
-              "DocumentMoniker": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Workshops\\RsvpForm.cshtml",
-              "RelativeDocumentMoniker": "Views\\Workshops\\RsvpForm.cshtml",
-              "ToolTip": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Workshops\\RsvpForm.cshtml",
-              "RelativeToolTip": "Views\\Workshops\\RsvpForm.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-17T16:44:46.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T17:19:04.516Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "RsvpForm.cshtml",
+              "DocumentMoniker": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Workshops\\RsvpForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Workshops\\RsvpForm.cshtml",
+              "ToolTip": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Workshops\\RsvpForm.cshtml",
+              "RelativeToolTip": "Views\\Workshops\\RsvpForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-17T16:44:46.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Program.cs",
+              "DocumentMoniker": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Program.cs",
+              "ToolTip": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T17:16:13.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T17:16:13.356Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Rsvp.cs",
-              "DocumentMoniker": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Models\\Rsvp.cs",
+              "DocumentMoniker": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Models\\Rsvp.cs",
               "RelativeDocumentMoniker": "Models\\Rsvp.cs",
-              "ToolTip": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Models\\Rsvp.cs",
+              "ToolTip": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Models\\Rsvp.cs",
               "RelativeToolTip": "Models\\Rsvp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-17T16:29:44.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WorkshopsController.cs",
-              "DocumentMoniker": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Controllers\\WorkshopsController.cs",
+              "DocumentMoniker": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Controllers\\WorkshopsController.cs",
               "RelativeDocumentMoniker": "Controllers\\WorkshopsController.cs",
-              "ToolTip": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Controllers\\WorkshopsController.cs",
+              "ToolTip": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Controllers\\WorkshopsController.cs",
               "RelativeToolTip": "Controllers\\WorkshopsController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBwAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T16:24:13.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T16:24:13.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T17:28:00.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T17:28:00.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T17:13:21.883Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T17:13:21.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T17:21:14.494Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T17:21:14.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -211,11 +187,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Registrations.cshtml",
-              "DocumentMoniker": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Workshops\\Registrations.cshtml",
+              "DocumentMoniker": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Workshops\\Registrations.cshtml",
               "RelativeDocumentMoniker": "Views\\Workshops\\Registrations.cshtml",
-              "ToolTip": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Workshops\\Registrations.cshtml",
+              "ToolTip": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Workshops\\Registrations.cshtml",
               "RelativeToolTip": "Views\\Workshops\\Registrations.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -223,11 +199,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Confirm.cshtml",
-              "DocumentMoniker": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Workshops\\Confirm.cshtml",
+              "DocumentMoniker": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Workshops\\Confirm.cshtml",
               "RelativeDocumentMoniker": "Views\\Workshops\\Confirm.cshtml",
-              "ToolTip": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Workshops\\Confirm.cshtml",
+              "ToolTip": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Workshops\\Confirm.cshtml",
               "RelativeToolTip": "Views\\Workshops\\Confirm.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -235,11 +211,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -247,11 +223,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -259,11 +235,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -271,11 +247,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -283,15 +259,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Workshops\\Index.cshtml",
+              "DocumentMoniker": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Workshops\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Workshops\\Index.cshtml",
-              "ToolTip": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Workshops\\Index.cshtml",
+              "ToolTip": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\Views\\Workshops\\Index.cshtml",
               "RelativeToolTip": "Views\\Workshops\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-17T16:25:02.111Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

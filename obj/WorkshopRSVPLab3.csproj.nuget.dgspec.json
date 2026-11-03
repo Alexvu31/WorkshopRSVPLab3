@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\WorkshopRSVPLab3.csproj": {}
+    "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\WorkshopRSVPLab3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\WorkshopRSVPLab3.csproj": {
+    "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\WorkshopRSVPLab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\WorkshopRSVPLab3.csproj",
+        "projectUniqueName": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\WorkshopRSVPLab3.csproj",
         "projectName": "WorkshopRSVPLab3",
-        "projectPath": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\WorkshopRSVPLab3.csproj",
+        "projectPath": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\WorkshopRSVPLab3.csproj",
         "packagesPath": "C:\\Users\\AlexV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\obj\\",
+        "outputPath": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uVHsWqQj/nI=",
+  "dgSpecHash": "82GMJijPW/4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\AlexV\\OneDrive\\Documents\\.NET Enterprise\\WorkshopRSVPLab3\\WorkshopRSVPLab3.csproj",
+  "projectFilePath": "C:\\OneDriveBackup\\.NET Enterprise\\WorkshopRSVPLab3\\WorkshopRSVPLab3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AlexV\\.nuget\\packages\\azure.core\\1.41.0\\azure.core.1.41.0.nupkg.sha512",
     "C:\\Users\\AlexV\\.nuget\\packages\\azure.identity\\1.12.1\\azure.identity.1.12.1.nupkg.sha512",
